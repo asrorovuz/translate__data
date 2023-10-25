@@ -1,0 +1,130 @@
+{
+  "dictionary": [
+    {
+      "id": 1,
+      "uz": "olma",
+      "eng": "apple",
+      "rus": "яблоко"
+    },
+    {
+      "uz": "o'rta",
+      "eng": "middle",
+      "rus": "cередина",
+      "id": 2
+    },
+    {
+      "uz": "badjahl, jahli chiqqan",
+      "eng": "angry",
+      "rus": "",
+      "id": 3
+    },
+    {
+      "uz": "qo'rqqan, cho'chigan",
+      "eng": "afraid",
+      "rus": "",
+      "id": 4
+    },
+    {
+      "uz": "fikriga qo'shilmoq, rozi bo'lmoq",
+      "eng": "agree",
+      "rus": "",
+      "id": 5
+    },
+    {
+      "uz": "yetib kelmoq, kelmoq",
+      "eng": "arrive",
+      "rus": "",
+      "id": 6
+    },
+    {
+      "uz": "hujum qilmoq, hujum uyushtirmoq",
+      "eng": "attack",
+      "rus": "",
+      "id": 7
+    },
+    {
+      "uz": "tag, pastki qism",
+      "eng": "bottom",
+      "rus": "",
+      "id": 8
+    },
+    {
+      "uz": "aqlli, ziyrak",
+      "eng": "clever",
+      "rus": "",
+      "id": 9
+    },
+    {
+      "uz": "shafqatsiz, berahm",
+      "eng": "cruel",
+      "rus": "",
+      "id": 10
+    },
+    {
+      "uz": "axiyri, vanihoyat",
+      "eng": "finally",
+      "rus": "",
+      "id": 11
+    },
+    {
+      "uz": "yashirinmoq, bekinmoq",
+      "eng": "hide",
+      "rus": "",
+      "id": 12
+    },
+    {
+      "uz": "ov qilmoq, ovlamoq",
+      "eng": "hunt",
+      "rus": "",
+      "id": 13
+    },
+    {
+      "uz": "juda ko'p",
+      "eng": "lot",
+      "rus": "",
+      "id": 14
+    },
+    {
+      "uz": "sekund, on, zum",
+      "eng": "moment",
+      "rus": "",
+      "id": 15
+    },
+    {
+      "uz": "mamnun, hursand",
+      "eng": "pleased",
+      "rus": "",
+      "id": 16
+    },
+    {
+      "uz": "vada bermoq",
+      "eng": "promise",
+      "rus": "",
+      "id": 17
+    },
+    {
+      "uz": "javob bermoq",
+      "eng": "reply",
+      "rus": "",
+      "id": 18
+    },
+    {
+      "uz": "xavfsiz, bexatar",
+      "eng": "safe",
+      "rus": "",
+      "id": 19
+    },
+    {
+      "uz": "xiyla, nayrang, focus",
+      "eng": "trick",
+      "rus": "",
+      "id": 20
+    },
+    {
+      "uz": "yaxshi",
+      "eng": "well",
+      "rus": "",
+      "id": 21
+    }
+  ]
+}
